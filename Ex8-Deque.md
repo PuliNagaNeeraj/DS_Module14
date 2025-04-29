@@ -1,5 +1,5 @@
 # Ex 2(c) Deque
-## DATE:03-03-2025
+## DATE: 10-03-2025
 ## AIM:
 To write a C function to count the number of elements present in the deque.
 
